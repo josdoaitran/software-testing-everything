@@ -153,3 +153,11 @@ To link the test case with Bug ID Open Particular Failed TC and Click on “Link
 If Test Case Pass in first time or in second cycle in that case update the comments with Pass status and with respective Cycle Below the screenshot when TC pass in second cycle
 
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-7.jpg.pagespeed.ic.A81KRYpTsh.webp)
+
+*Note:*
+
+Entered above comments help us to pull out the report.
+
+### In case of Test case INVALID
+
+In case of invalid test case that has become obsolete or cannot be run. We will update the status as shown below:
