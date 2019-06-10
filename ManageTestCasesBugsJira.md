@@ -102,3 +102,7 @@ Test Case creation steps:
 - Create Test Case In Excel
 - Convert TC in .csv file with giving name as import.csv (its mandatory csv with this  name) for to import in JIRA. csv file format attached above
 - Upload .csv into JIRA using JIRA CLI using the (above mentioned steps)
+
+Create Test Case in excel sheet in the format which is acceptable by JIRA CLI (see below for example)
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-211.jpg.pagespeed.ic.iXpu-z0K8u.webp)
+
