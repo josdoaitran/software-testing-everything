@@ -89,3 +89,16 @@ c://Jira-cli-3.8.0>jira.bat –server <URL of JIRA> -user kailash.pathak – pas
 (~Here “SSPQA” Is Project Key)
 
 -Test case data is imported in JIRA against the particular components successfully
+
+### 7. Process for Test case creation and allocation in JIRA
+
+Below are the steps for test case creation and allocation in JIRA:
+
+Test Case creation steps:
+
+- Create a new project with the help of JIRA administrator.
+- Create sprint Task, sub task for QA e.g. Design Test case and Execute Test case of particular module 
+- Create Components against the Project with the help of JIRA administrator
+- Create Test Case In Excel
+- Convert TC in .csv file with giving name as import.csv (its mandatory csv with this  name) for to import in JIRA. csv file format attached above
+- Upload .csv into JIRA using JIRA CLI using the (above mentioned steps)
