@@ -111,7 +111,7 @@ Test Case Allocation steps :
 We can allocate Test Cases for execution using bulk change functionality. During the bulk change we can assign the user name to the Test Cases.
 
 First search the TCs then assign user name in bulk by clicking on Assign to me link see below screen shot for more detail
-
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-3.jpg.pagespeed.ic.lzOAfML8tf.webp)
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-4.jpg.pagespeed.ic.Aa2q3SseZQ.webp)
 
 ### Test Case Execution
