@@ -58,4 +58,4 @@ One of the major challenge was how to import the TCs in JIRA because designing t
 
 ### 6.How to import Test case using JIRA CLI?
 
--Download jira-cli (Lasted version) from ![this link](https://marketplace.atlassian.com/apps/6398/jira-command-line-interface-cli/version-history)
+-Download jira-cli (Lasted version) from [this link](https://marketplace.atlassian.com/apps/6398/jira-command-line-interface-cli/version-history)
