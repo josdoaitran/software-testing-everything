@@ -161,3 +161,8 @@ Entered above comments help us to pull out the report.
 ### In case of Test case INVALID
 
 In case of invalid test case that has become obsolete or cannot be run. We will update the status as shown below:
+
+*Note:*
+
+Same transition screen open to enter comments in case of other status (Closed, TC-Template, TC-Ready to Run etc.)
+
