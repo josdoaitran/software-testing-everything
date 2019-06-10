@@ -163,7 +163,15 @@ Entered above comments help us to pull out the report.
 
 In case of invalid test case that has become obsolete or cannot be run. We will update the status as shown below:
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-9.jpg.pagespeed.ic.hKfxFOR_Dg.webp)
+
 *Note:*
 
 Same transition screen open to enter comments in case of other status (Closed, TC-Template, TC-Ready to Run etc.)
 
+## Report in JIRA of Test Cases
+
+We can generate execution report using different criteria (We can use the entered comments during execution of TC as search criteria).
+
+### Search Criteria:
+
+### Sprint Wise Report
