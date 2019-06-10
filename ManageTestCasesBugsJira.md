@@ -36,6 +36,13 @@ _Test case work flow_
 
 _Status in Test case workflow:_
 
+Test Case Allocation steps :
+
+We can allocate Test Cases for execution using bulk change functionality. During the bulk change we can assign the user name to the Test Cases.
+
+First search the TCs then assign user name in bulk by clicking on Assign to me link see below screen shot for more detail
+
+
 TC awaiting review: Default status when a Test Case is created and awaiting for Review from the QA lead.
 
 TC Template: An approved TC that has not yet been scheduled yet.
