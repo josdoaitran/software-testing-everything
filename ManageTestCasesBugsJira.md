@@ -134,3 +134,15 @@ After uploading and allocating the test cases next step is to execute the test c
 
 - Bring all Test cases we want to execute in “IN PROGRESS” state using Bulk change functionality
 - Execute TCs one by one
+
+### In case of Test case FAIL
+
+- In case of a FAIL a New Transition comments screen (See screen shot below) open
+- Enter actual result.
+- Enter Sprint<Sprint Number>-Cycle< Test Cycle No. >-<Browser Name> <Fail>
+E.g. Sprint26-Cycle1-IE-Fail as Comment
+
+- Click on the Fail button
+- Particular test case is Fail
+- Report bug for Fail Test Case
+Link Fail Test Case with Bug Number (Explain in next point)
