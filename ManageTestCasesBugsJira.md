@@ -14,4 +14,12 @@ Here are additional detail explaining each of the steps below:
 
 ### 1. How to create issue type?
 
-Add a new issue type in existing flow and name it “Test case.” This should be a top- level (standard) task (for this go to Administration > Issues > Issues Types and use  Add Issue Type option).
+Add a new issue type in existing flow and name it “Test case.” This should be a top-level (standard) task (for this go to Administration > Issues > Issues Types and use  Add Issue Type option).
+
+### 2. How to create status?
+
+Add new status (for this go to Administration > Status > Status Types and use Add Status Type option)
+
+### 3. JIRA default workflow
+
+JIRA workflow is the set of status and transitions through which an issue goes during its lifecycle
