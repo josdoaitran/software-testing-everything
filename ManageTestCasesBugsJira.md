@@ -113,3 +113,24 @@ Test Case creation steps:
 Create Test Case in excel sheet in the format which is acceptable by JIRA CLI (see below for example)
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-211.jpg.pagespeed.ic.iXpu-z0K8u.webp)
 
+Test Case Allocation steps :
+
+We can allocate Test Cases for execution using bulk change functionality. During the bulk change we can assign the user name to the Test Cases.
+
+First search the TCs then assign user name in bulk by clicking on Assign to me link see below screen shot for more detail
+
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-4.jpg.pagespeed.ic.Aa2q3SseZQ.webp)
+
+### Test Case Execution
+
+Once the TCs are allocated next step is to execute the Test Cases in JIRA with updating their status with Pass, Fail etc.
+
+### Prerequisites:
+
+- We are executing TC in three browsers (Chrome, IE, and FireFox)
+- We are executing each of TC in two cycles (Cycle 1, Cycle 2)
+
+After uploading and allocating the test cases next step is to execute the test cases. Follow these steps to execute it:
+
+- Bring all Test cases we want to execute in “IN PROGRESS” state using Bulk change functionality
+- Execute TCs one by one
