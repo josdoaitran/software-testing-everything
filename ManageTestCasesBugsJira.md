@@ -140,9 +140,12 @@ After uploading and allocating the test cases next step is to execute the test c
 - In case of a FAIL a New Transition comments screen (See screen shot below) open
 - Enter actual result.
 - Enter Sprint<Sprint Number>-Cycle< Test Cycle No. >-<Browser Name> <Fail>
+
 E.g. Sprint26-Cycle1-IE-Fail as Comment
 
 - Click on the Fail button
 - Particular test case is Fail
 - Report bug for Fail Test Case
 Link Fail Test Case with Bug Number (Explain in next point)
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-5.jpg.pagespeed.ic.U1IfQhp0ir.webp)
+
