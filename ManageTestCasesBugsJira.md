@@ -51,3 +51,11 @@ TC-Passed: After execution when TC Pass status update to TC-Passed
 TC-Invalid: A test that has become obsolete or cannot be run
 
 Closed: This is the final status of the TC
+
+### 5. About JIRA CLI
+
+One of the major challenge was how to import the TCs in JIRA because designing test cases one by one in JIRA was time consuming. A tool was needed by which I can upload the TC in JIRA from file (.csv, Excel, etc.). Finally, I found Add-on JIRA CLI (free tool ~Till version 2.6.0) to import the Test case’s from .csv
+
+### 6.How to import Test case using JIRA CLI?
+
+-Download jira-cli (Lasted version) from ![this link](https://marketplace.atlassian.com/apps/6398/jira-command-line-interface-cli/version-history)
