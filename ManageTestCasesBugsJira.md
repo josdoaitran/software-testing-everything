@@ -157,6 +157,7 @@ If Test Case Pass in first time or in second cycle in that case update the comme
 *Note:*
 
 Entered above comments help us to pull out the report.
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-8.jpg.pagespeed.ic.hKfxFOR_Dg.webp)
 
 ### In case of Test case INVALID
 
