@@ -139,6 +139,6 @@ E.g. Sprint26-Cycle1-IE-Fail as Comment
 - Click on the Fail button
 - Particular test case is Fail
 - Report bug for Fail Test Case
-Link Fail Test Case with Bug Number (Explain in next point)
+Link Fail Test Case with Bug Number (*Explain in next point*)
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-5.jpg.pagespeed.ic.U1IfQhp0ir.webp)
 
