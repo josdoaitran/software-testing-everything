@@ -25,3 +25,29 @@ Add new status (for this go to Administration > Status > Status Types and use Ad
 JIRA workflow is the set of status and transitions through which an issue goes during its lifecycle
 
 ![alt text](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-1.jpg.pagespeed.ic.lJ8-hVD-h2.webp)
+
+### 4. Test case work flow after modification
+
+After modification with the help of JIRA administrator below is the Test case workflow with different status:
+
+_Test case work flow _
+
+![alt text](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-2.jpg.pagespeed.ic.dyufgJHFp8.webp)
+
+_Status in Test case workflow:_
+
+TC awaiting review: Default status when a Test Case is created and awaiting for Review from the QA lead.
+
+TC Template: An approved TC that has not yet been scheduled yet.
+
+TC-Ready to Run: TC that has been scheduled.
+
+In Progress: TC that has been in-progress state
+
+TC-Failed: After execution when TC fail status update to TC-Failed
+
+TC-Passed: After execution when TC Pass status update to TC-Passed
+
+TC-Invalid: A test that has become obsolete or cannot be run
+
+Closed: This is the final status of the TC
