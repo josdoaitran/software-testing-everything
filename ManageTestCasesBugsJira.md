@@ -140,9 +140,16 @@ E.g. Sprint26-Cycle1-IE-Fail as Comment
 - Particular test case is Fail
 - Report bug for Fail Test Case
 Link Fail Test Case with Bug Number (*Explain in next point*)
-![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-5.jpg.pagespeed.ic.U1IfQhp0ir.webp)
 
 ### Linking of Fail Test case with Bug ID
 
 To link the test case with Bug ID Open Particular Failed TC and Click on “Link” from menu following screen open to link the Test Case with Bug ID after clicking on link button Fail TC link with the Bug ID
+
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-5.jpg.pagespeed.ic.U1IfQhp0ir.webp)
+
+### In case of Test case PASS
+
+If Test Case Pass in first time or in second cycle in that case update the comments with Pass status and with respective Cycle Below the screenshot when TC pass in second cycle
+
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-6.jpg.pagespeed.ic.U_vqSw_03v.webp)
+
