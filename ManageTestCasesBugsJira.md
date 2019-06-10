@@ -147,9 +147,9 @@ To link the test case with Bug ID Open Particular Failed TC and Click on “Link
 
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-5.jpg.pagespeed.ic.U1IfQhp0ir.webp)
 
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-6.jpg.pagespeed.ic.U_vqSw_03v.webp)
 ### In case of Test case PASS
 
 If Test Case Pass in first time or in second cycle in that case update the comments with Pass status and with respective Cycle Below the screenshot when TC pass in second cycle
 
-![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-6.jpg.pagespeed.ic.U_vqSw_03v.webp)
-
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-7.jpg.pagespeed.ic.A81KRYpTsh.webp)
