@@ -62,3 +62,30 @@ One of the major challenge was how to import the TCs in JIRA because designing t
 - Save the Test cases file with name import.xls and convert into .csv format then copy import.Csv file under downloaded folder (jira-cli-2.6.0) .csv format given below
 
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-21.jpg.pagespeed.ic.efbEKthSZr.webp)
+
+~In above import.csv file Description column consist  merge data of (Prerequisites, Steps, and Expected Results)
+
+- Under downloaded folder (jira-cli-2.6.0) there is a file with name import.properties
+
+- Map column name for which we want to import the data in the properties file
+
+field.Type = Type
+
+field.Component = Components
+
+field.Project = Project
+
+field.Objective = Summary
+
+field.Description = Description
+
+File (~import.properties file format as seen above)
+
+- Run the following single line command in command prompt
+```
+c://Jira-cli-3.8.0>jira.bat –server <URL of JIRA> -user kailash.pathak – password “xxxxxxx” –action runFromCsv –file import.csv –propertyFile import. Properties –common “–project SSPQA”               — continue
+```
+
+(~Here “SSPQA” Is Project Key)
+
+-Test case data is imported in JIRA against the particular components successfully
