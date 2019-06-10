@@ -23,3 +23,5 @@ Add new status (for this go to Administration > Status > Status Types and use Ad
 ### 3. JIRA default workflow
 
 JIRA workflow is the set of status and transitions through which an issue goes during its lifecycle
+
+![alt text](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-1.jpg)
