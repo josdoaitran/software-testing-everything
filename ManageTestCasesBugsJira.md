@@ -58,4 +58,5 @@ One of the major challenge was how to import the TCs in JIRA because designing t
 
 ### 6.How to import Test case using JIRA CLI?
 
--Download jira-cli (Lasted version) from [this link](https://marketplace.atlassian.com/apps/6398/jira-command-line-interface-cli/version-history)
+- Download jira-cli (Lasted version) from [this link](https://marketplace.atlassian.com/apps/6398/jira-command-line-interface-cli/version-history)
+- Save the Test cases file with name import.xls and convert into .csv format then copy import.Csv file under downloaded folder (jira-cli-2.6.0) .csv format given below
