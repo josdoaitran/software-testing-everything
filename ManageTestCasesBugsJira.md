@@ -30,7 +30,7 @@ JIRA workflow is the set of status and transitions through which an issue goes d
 
 After modification with the help of JIRA administrator below is the Test case workflow with different status:
 
-_Test case work flow _
+_Test case work flow_
 
 ![alt text](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-2.jpg.pagespeed.ic.dyufgJHFp8.webp)
 
