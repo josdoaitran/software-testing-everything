@@ -190,3 +190,15 @@ We can convert this report data (in Two Dimensional and Pie Chart illustrations 
 See two dimensional and pie chart report for the above documented criteria
 
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-11.jpg.pagespeed.ic.lOoYKCnAjA.webp)
+*Note:
+
+For each of the below mentioned search criteria we can create a similar report
+
+#### 2. Sprint with cycle wise report Sprint26-Cycle1-*
+
+End Result:
+
+This search criteria display all executed TC of Cycle1
+
+JIRA-KP-12We can convert this report data in (Two Dimensional and Pie Chart)
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-12.jpg.pagespeed.ic.bQ-4bKh0uK.webp)
