@@ -213,3 +213,4 @@ End Result:
 This search criteria displays all executed TC of Cycle1 for different browser
 
 We can convert this report data in (Two Dimensional and Pie Chart)
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-13.jpg.pagespeed.ic.bQ-4bKh0uK.webp)
