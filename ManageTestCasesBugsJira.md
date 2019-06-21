@@ -215,3 +215,40 @@ This search criteria displays all executed TC of Cycle1 for different browser
 We can convert this report data in (Two Dimensional and Pie Chart)
 
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-13.jpg.pagespeed.ic.bQ-4bKh0uK.webp)
+#### 4. Sprint with (Cycle, Browser and Test case Pass) wise report
+
+Search by criteria Sprint26-Cycle1-IE-Pass
+
+End Result:
+
+This search criteria display all Passed TC of Cycle1 for Browser IE
+
+We can convert this report data in (Two Dimensional and Pie Chart)
+
+#### 5. Sprint with (Cycle, Browser and Test case Fail) wise report
+
+Search by criteria Sprint26-Cycle1-IE-Fail
+
+End Result:
+
+This search criteria display all Failed TC of Cycle1 for Browser IE
+
+We can convert this report data in (Two Dimensional and Pie Chart)
+
+#### *Note:
+
+Similarly we can generate report for Cycle2 #
+
+#### JIRA – Pros
+
+Bulk clone is possible
+Possibility to update the status of multiple test cases at once
+Custom searches can be saved as filters and shared through products/users
+Test plan can be easily create in JIRA by putting together all test cases to be executed in that iteration (Sprint)
+Easily linking between Test Cases and Bugs
+Provides an advanced search mechanism and a way to create custom search queries
+
+#### JIRA – Cons:
+
+The “look and feel” is the same as for bugs not as for a normal test case management tool (like Test Link or Quality Center)
+Initial set up is bit time consuming but once design user can easily manage the Test Cases
