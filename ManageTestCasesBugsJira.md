@@ -202,3 +202,14 @@ This search criteria display all executed TC of Cycle1
 
 JIRA-KP-12We can convert this report data in (Two Dimensional and Pie Chart)
 ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-12.jpg.pagespeed.ic.bQ-4bKh0uK.webp)
+
+#### 3.Sprint with Cycle and Browser wise (Firefox, IE, Chrome) report
+
+Search by criteria Sprint26-Cycle1-FF-*
+Search by criteria Sprint26-Cycle1-IE-*
+Search by criteria Sprint26-Cycle1-Chrome-*
+End Result:
+
+This search criteria displays all executed TC of Cycle1 for different browser
+
+We can convert this report data in (Two Dimensional and Pie Chart)
