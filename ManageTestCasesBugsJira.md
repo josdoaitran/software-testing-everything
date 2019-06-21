@@ -180,3 +180,13 @@ We can generate execution report using different criteria (We can use the entere
   Example:
  Enter Sprint26-* in the Comment window after selecting Project, Components as shown in the screen below:
  ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-10.jpg.pagespeed.ic.hKfxFOR_Dg.webp)
+ 
+ End Result:
+
+This search criteria displays all executed TCs (Pass, Fail, Invalid etc.)  with a consolidated list as shown below:
+
+We can convert this report data (in Two Dimensional and Pie Chart illustrations as well)
+
+See two dimensional and pie chart report for the above documented criteria
+
+![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-11.jpg.pagespeed.ic.lOoYKCnAjA.webp)
