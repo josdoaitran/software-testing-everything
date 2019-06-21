@@ -175,3 +175,8 @@ We can generate execution report using different criteria (We can use the entere
 ### Search Criteria:
 
 ### Sprint Wise Report
+#### 1. Complete Sprint wise report (Sprint26-*)
+
+  Example:
+ Enter Sprint26-* in the Comment window after selecting Project, Components as shown in the screen below:
+ ![](https://www.3pillarglobal.com/wp-content/uploads/2014/11/xJIRA-KP-10.jpg.pagespeed.ic.hKfxFOR_Dg.webp)
