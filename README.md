@@ -8,3 +8,7 @@ SoftwareTestingEverything
 
 ## ROI
 
+
+# Automation Testing
+
+![](https://github.com/josdoaitran/SoftwareTestingEverything/blob/master/Test%20Approaching.png)
