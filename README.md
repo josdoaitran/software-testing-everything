@@ -11,4 +11,4 @@ SoftwareTestingEverything
 
 # Automation Testing
 
-![](https://github.com/josdoaitran/SoftwareTestingEverything/blob/master/Test%20Approaching.png)
+![](https://github.com/josdoaitran/SoftwareTestingEverything/blob/master/AutomationTest/Java_Automation_Test.png)
