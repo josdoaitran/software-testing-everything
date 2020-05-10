@@ -1,6 +1,11 @@
 # SoftwareTestingEverything
 SoftwareTestingEverything
 
+## Books for Software Testing
+
+1. Foundation Of Software Testing: ISTQB Certification [Link]
+
+
 ## Test approaching
 ![](https://github.com/josdoaitran/SoftwareTestingEverything/blob/master/Test%20Approaching.png)
 
