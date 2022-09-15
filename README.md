@@ -1,7 +1,8 @@
 # SoftwareTestingEverything
 To collect everything about software testing.
 
-1. What is `TestCase` and `TestScenaro`
+1. What is `TestCase` and `TestScenario`
+
 2. 7 princiles of software testing
 3. Test design techniques 
 
