@@ -21,7 +21,7 @@ In Software release's demands, we always hope to receive the feedback soon, redu
 
 In Tranditional testing approach, The tester or QA/QC will involve at the end of each release. Testing in Tranditional approach is a phase of a release. The most important thing in software testing, we can't do everything, all cases to assure our software has no error - "testing everything" approach. If we define and execute testing at the end of release. Your testing efforts will become the huge blockers, huge factors to your success's products.
 
-In this image, we can see the more information that we can usually face:
+In this image, we can see the more information about Tranditional testing and the issue that we can usually face in Tranditional Testing:
 
 
 # How we run Continous testing effectively ?
