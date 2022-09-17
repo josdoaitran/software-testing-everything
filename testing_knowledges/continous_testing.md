@@ -1,6 +1,6 @@
 # What is continous testing ?
 
-In this document, I would like to summarize the most important things about Continous testing, the detailed information about Why our trending is continous testing, even how we can apply some best-practice to your projects / products.
+In this document, I would like to summarize the most important things about *Continous testing*, the detailed information about Why our trending is continous testing, even how we can apply some best-practice to your projects / products.
 
 With the rising of Agile/ Scrum methodologies and Continous Delivery, the demands of ealier testing, receiving the testing result sooner are increasing highly, and our test trending is Continous testing, that helps our Developement team accelerate and priorotize testing to meet the expectation of faster development's speed, fast-paced in Agile/Scrum, Devops, ...
 
@@ -22,6 +22,28 @@ In Software release's demands, we always hope to receive the feedback soon, redu
 In Tranditional testing approach, The tester or QA/QC will involve at the end of each release. Testing in Tranditional approach is a phase of a release. The most important thing in software testing, we can't do everything, all cases to assure our software has no error - "testing everything" approach. If we define and execute testing at the end of release. Your testing efforts will become the huge blockers, huge factors to your success's products.
 
 In this image, we can see the more information about Tranditional testing and the issue that we can usually face in Tranditional Testing:
+
+## Tranditional testing in Waterfall Software Development Life Cycle.
+
+![Waterfall-Model](../images/waterfall_model.png)
+
+If your business is applying the Software Development Life Cycle - Waterfall model, absolutely you will be in Traditional Testing.
+
++ We usually focus on Testing only once your QAs/QCs have the build.
+
++ Your teams's structure is built in Component model.
+Your QA/QC members work together in QA team. After they receive the build, they will base on the requirements / their test cases to execute testing to evaluate the quality of build.
+
++ If any changes or modifications of requirement, we have to wait to next release. Late feedback and not flexible.
+
++ Less feedback and testing efforts were involve at ealier phases (Reqirements analysis, Design, Implimentation phase) of each release.
+
+## Trandional testing in some anti-parttern of Agile/Scrum.
+
+Based on my experiences. Traditional testing appears not only on the project with Waterfall model but also on the project with Agile/ Scrum model.
+
+In trending, we always built our development team methodology in Agile/ Scrum model. However, it is not sure that we overcome the Traditional Testing mindset completely. 
+
 
 
 # How we run Continous testing effectively ?
