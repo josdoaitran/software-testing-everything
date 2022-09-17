@@ -42,8 +42,13 @@ Your QA/QC members work together in QA team. After they receive the build, they 
 
 Based on my experiences. Traditional testing appears not only on the project with Waterfall model but also on the project with Agile/ Scrum model.
 
-In trending, we always built our development team methodology in Agile/ Scrum model. However, it is not sure that we overcome the Traditional Testing mindset completely. 
+In trending, we always built our development team methodology in Agile/ Scrum model. However, it is not sure that we'll overcome the Traditional Testing mindset completely.
 
+![Waterfall-Model](../images/agile_scrum_model.png)
+
+In Scrum model, our team will focus testing efforts in Sprint by Sprint. Trandittional testing mindset is still in our team ways of working, if:
+- our team keep testing as a phase in a Sprint. 
+- our team still keep 
 
 
 # How we run Continous testing effectively ?
@@ -64,3 +69,4 @@ About Non-function testing, we have several testing types such as: Performance t
 - https://www.tricentis.com/learn/what-is-continuous-testing
 - https://katalon.com/resources-center/blog/continuous-testing-introduction
 - https://www.onpathtesting.com/blog/end-to-end-vs-integration-testing
+- https://www.researchgate.net/figure/The-Scrum-methodology-Source-15_fig2_333784632
