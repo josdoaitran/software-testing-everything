@@ -58,11 +58,28 @@ The values of the modern Agile testing are:
 
 With the emergence of DevOps and developments of technical solutions for Continous Integration/Continous Delivery (CI/CD), the demands for testing in Agile testing increased rapidly.
 
+# Continous testing:
+In Agile/Scrum Models, we face with demands:
+
+- Continuous integration: is a software development practice where members of a team use a version control system and frequently integrate their work to the same location, such as a main branch. Each change is built and verified to detect integration errors as quickly as possible. Continuous integration is focused on automatically building and testing code, as compared to continuous delivery, which automates the entire software release process up to production.
+- Continuous Delivery: is a software development methodology where the release process is automated. Every software change is automatically built, tested, and deployed to production. Before the final push to production, a person, an automated test, or a business rule decides when the final push should occur. Although every successful software change can be immediately released to production with continuous delivery, not all changes need to be released right away.
+
+- Then, Continuous Testing can be considered as the biggest challenges for us. We always expect that Testing is not a blocker to prevent us eccelerate our Software Delivery Speed.
+With Continuous integration and Continuous delivery, Testing also is expected to be continuous and less manual testing efforts.
+
+![Continuous-Testing](../images/continuous-testing.png)
+
 # How we run Continous testing effectively ?
+
+One of the most important factors of software testing is testing levels in each testing environments to make sure the realistic of test coverages in our test approaches.
+In coutinous testing, we are apply several testing levels with our automation testing solutions to help us eccelerate 
+
 
 
 ## References:
+- Enteprise Continuous testing - Transforming Testing for Agile and Devops - By Wolfgang Platz With Cynthia Dunlop
 - https://www.tricentis.com/learn/what-is-continuous-testing
 - https://katalon.com/resources-center/blog/continuous-testing-introduction
 - https://www.onpathtesting.com/blog/end-to-end-vs-integration-testing
 - https://www.researchgate.net/figure/The-Scrum-methodology-Source-15_fig2_333784632
+- https://docs.aws.amazon.com/codepipeline/latest/userguide/concepts-continuous-delivery-integration.html
