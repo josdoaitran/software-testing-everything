@@ -47,22 +47,18 @@ In trending, we always built our development team methodology in Agile/ Scrum mo
 ![Waterfall-Model](../images/agile_scrum_model.png)
 
 In Scrum model, our team will focus testing efforts in Sprint by Sprint. Trandittional testing mindset is still in our team ways of working, if:
-- our team keep testing as a phase in a Sprint. 
-- our team still keep 
+- Our team keep testing as a phase in a Sprint. 
+- Our team members still keep the tranditional WOW (Ways of working), they focus on their technical perspective to complete their tasks in each Sprint. DEV members focus on their view to implement their coding tasks, deploy and provide new build to QA. Testing efforts will be considered when QA received the build from DEV.
 
+The values of the modern Agile testing are:
++ Earlier testing.
++ Sooner feedback.
++ Cross-functional team will take responsibilities for Quality of Product.
++ Testing more and testing is not a phase.
+
+With the emergence of DevOps and developments of technical solutions for Continous Integration/Continous Delivery (CI/CD), the demands for testing in Agile testing increased rapidly.
 
 # How we run Continous testing effectively ?
-
-## About functional testing:
-
-+ 
-+ 
-
-## About Non-Functional testing:
-About Non-function testing, we have several testing types such as: Performance test, Security testing, Usuability testing, ...
-
-+
-+
 
 
 ## References:
