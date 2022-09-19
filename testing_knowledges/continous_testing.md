@@ -44,7 +44,7 @@ Based on my experiences. Traditional testing appears not only on the project wit
 
 In trending, we always built our development team methodology in Agile/ Scrum model. However, it is not sure that we'll overcome the Traditional Testing mindset completely.
 
-![Waterfall-Model](../images/agile_scrum_model.png)
+![Agile-Model](../images/agile_scrum_model.png)
 
 In Scrum model, our team will focus testing efforts in Sprint by Sprint. Trandittional testing mindset is still in our team ways of working, if:
 - Our team keep testing as a phase in a Sprint. 
@@ -67,12 +67,17 @@ In Agile/Scrum Models, we face with demands:
 - Then, Continuous Testing can be considered as the biggest challenges for us. We always expect that Testing is not a blocker to prevent us eccelerate our Software Delivery Speed.
 With Continuous integration and Continuous delivery, Testing also is expected to be continuous and less manual testing efforts.
 
-![Continuous-Testing](../images/continuous-testing.png)
+![Continuous-Testing](../images/continuous_testing.png)
 
 # How we run Continous testing effectively ?
 
-One of the most important factors of software testing is testing levels in each testing environments to make sure the realistic of test coverages in our test approaches.
-In coutinous testing, we are apply several testing levels with our automation testing solutions to help us eccelerate 
+- One of the most important factors of software testing is testing levels in each testing environments to make sure the realistic of test coverages in our test approaches.
+
+In coutinous testing, we are apply several testing levels with our automation testing solutions to help us eccelerate our integration, testing, delivery.
+
+- Automation testing becomes an esential points for receiveing fast-feedbacks. Why does the shift to Agile and DevOps make test automation imperative?
+
+- 
 
 
 
