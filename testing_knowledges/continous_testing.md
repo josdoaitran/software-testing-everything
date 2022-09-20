@@ -75,9 +75,15 @@ With Continuous integration and Continuous delivery, Testing also is expected to
 
 In coutinous testing, we are apply several testing levels with our automation testing solutions to help us eccelerate our integration, testing, delivery.
 
-- Automation testing becomes an esential points for receiveing fast-feedbacks. Why does the shift to Agile and DevOps make test automation imperative?
+- Automation testing becomes an esential points for receiveing fast-feedbacks. The shift to Agile and DevOps make test automation imperative.
 
-- 
+- As I mentioned before, let me summarise the main information about Testing levels/ types that we should have proper approaches to build up automation testing:
+
+    + Unit test and Component test
+    + Integration test
+    + System Integration test - End to End test
+
+
 
 
 
@@ -88,3 +94,4 @@ In coutinous testing, we are apply several testing levels with our automation te
 - https://www.onpathtesting.com/blog/end-to-end-vs-integration-testing
 - https://www.researchgate.net/figure/The-Scrum-methodology-Source-15_fig2_333784632
 - https://docs.aws.amazon.com/codepipeline/latest/userguide/concepts-continuous-delivery-integration.html
+- https://www.testorigen.com/best-ways-to-automate-agile-software-testing/
