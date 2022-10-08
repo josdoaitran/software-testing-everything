@@ -8,4 +8,4 @@
 - Serenity
 - Appium + Selenium: #mobile #android #ios #windows-app
 - Cypress: #web
-- 
+- [Plywrigth](https://playwright.dev/)
