@@ -26,4 +26,6 @@ Refferences:
 
 
 # API - E2E - Login - App using Office 365:
+- Microsft provides us API Document in Graph, you can refer more here: https://learn.microsoft.com/en-us/graph/overview
+- Get access as an user: https://learn.microsoft.com/en-us/graph/auth-v2-user#2-get-authorization
 
