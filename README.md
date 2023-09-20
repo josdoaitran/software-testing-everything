@@ -39,6 +39,11 @@ https://www.testmakker.dk/2019/03/30/testing-mnemonics/
 https://testsigma.com/blog/session-based-testing/
 https://www.infoq.com/articles/session-based-test-management/
 
+# Agile Testing Quarant:
+![Agile-Testing-Quadrants](https://lisacrispin.com/wp-content/uploads/2011/11/Agile-Testing-Quadrants.png)
+Reference more: https://developsense.com/resource/RSTAgileTesting.pdf
+
+
 # References:
 - Software Testing Heuristics Mind: https://www.ministryoftesting.com/search?q=software+testing+heuristics+mind+the+gap
 - Session Base Testing: https://testsigma.com/blog/session-based-testing/
