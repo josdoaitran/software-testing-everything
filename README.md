@@ -34,5 +34,11 @@ There are many test management tools (Testrails, Xray,  )
 # Testing Mnemonics
 https://www.testmakker.dk/2019/03/30/testing-mnemonics/
 
+
+# Session Base Testing, Exploratory Testing
+https://testsigma.com/blog/session-based-testing/
+https://www.infoq.com/articles/session-based-test-management/
+
 # References:
 - Software Testing Heuristics Mind: https://www.ministryoftesting.com/search?q=software+testing+heuristics+mind+the+gap
+- Session Base Testing: https://testsigma.com/blog/session-based-testing/
