@@ -33,3 +33,6 @@ There are many test management tools (Testrails, Xray,  )
 
 # Testing Mnemonics
 https://www.testmakker.dk/2019/03/30/testing-mnemonics/
+
+# References:
+- Software Testing Heuristics Mind: https://www.ministryoftesting.com/search?q=software+testing+heuristics+mind+the+gap
