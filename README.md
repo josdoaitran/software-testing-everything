@@ -27,4 +27,9 @@ To collect everything about software testing.
 
 # Test Management tool
 
-There are many test management tools (Testrails, )
+There are many test management tools (Testrails, Xray,  )
+- Testrails: https://www.testrail.com/
+- Xray: https://www.getxray.app/test-management
+
+# Testing Mnemonics
+https://www.testmakker.dk/2019/03/30/testing-mnemonics/
