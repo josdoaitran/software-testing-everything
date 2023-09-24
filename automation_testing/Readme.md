@@ -1,10 +1,14 @@
 # Automation Test
-
+In this page, I would like collect and mention all tools and modern automation test framework. It includes open-source and commercial software tools, frameworks, Scriting Styles.
 
 ## Tools and framework:
 
-- Selenium: #web #mobile
-- Pytest: #api #python
+- (Selenium)[https://www.selenium.dev/]: #web #mobile
++ Selenium 4 Upgrade: https://www.selenium.dev/documentation/webdriver/getting_started/upgrade_to_selenium_4/
++ Selenium 4 with Chrome DevTools support
++ Selemium 4 with selenium Manager: https://www.selenium.dev/blog/2022/introducing-selenium-manager/
++ HTTP Client in Selenium 4.5.0 and later: https://www.selenium.dev/blog/2022/using-java11-httpclient/
+- [Pytest](https://docs.pytest.org/en/7.4.x/): #api #python
 - JUnit/Testng: #java #test-framework
 - [Jbehave](https://jbehave.org/): #web 
 - [Serenity BDD](https://serenity-bdd.info/)
