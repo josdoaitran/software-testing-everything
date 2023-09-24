@@ -23,3 +23,8 @@ Highlight: Java, BDD [Ghekirn], Selenium
 
 - TheOneFramework: https://github.com/amuthansakthivel/TheOneFramework
 Highlight: Java, Web, Mobile, API, Selenium, Appium
+
+- Karate: https://github.com/karatelabs/karate
+Highlight: Java, Maven/Gradle, Junit5,  BDD with Gherkin, API
+
+- 
