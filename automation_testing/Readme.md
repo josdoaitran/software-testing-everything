@@ -6,11 +6,12 @@
 - Selenium: #web #mobile
 - Pytest: #api #python
 - JUnit/Testng: #java #test-framework
-- JBehave
-- Serenity
+- [Jbehave](https://jbehave.org/): #web 
+- [Serenity BDD](https://serenity-bdd.info/)
 - Appium + Selenium: #mobile #android #ios #windows-app
 - Cypress: #web #api
-- [Plywrigth](https://playwright.dev/)
+- [Playwright](https://playwright.dev/): #web #api #multi-programing-languages
+https://github.com/microsoft/playwright
 
 ## Framework collections:
 Where we collect the information about all public testing framework, we will try and lesson learnt from them. 
