@@ -1,18 +1,40 @@
 # Automation Test
-
+In this page, I would like collect and mention all tools and modern automation test framework. It includes open-source and commercial software tools, frameworks, Scriting Styles.
 
 ## Tools and framework:
 
-- Selenium: #web #mobile
-- Pytest: #api #python
-- JUnit/Testng: #java #test-framework
-- JBehave
-- Serenity
-- Appium + Selenium: #mobile #android #ios #windows-app
-- Cypress: #web #api
-- [Plywrigth](https://playwright.dev/)
+## (Selenium)[https://www.selenium.dev/]: 
+Tags: #web #mobile
++ Selenium 4 Upgrade: https://www.selenium.dev/documentation/webdriver/getting_started/upgrade_to_selenium_4/
++ Selenium 4 with Chrome DevTools support
++ Selemium 4 with selenium Manager: https://www.selenium.dev/blog/2022/introducing-selenium-manager/
++ HTTP Client in Selenium 4.5.0 and later: https://www.selenium.dev/blog/2022/using-java11-httpclient/
+  
+## [Pytest](https://docs.pytest.org/en/7.4.x/): 
+Tags: #api #python
++ Playwright with Python: https://playwright.dev/python/docs/running-tests
++ 
+## JUnit/Testng: 
+Tags: #java #test-framework
 
-## Framework collections:
+## [Jbehave](https://jbehave.org/):
+Tags: #web 
+
+## [Serenity BDD](https://serenity-bdd.info/)
+Tags: #Gherkin #Screen-play #Java
+
+## Appium + Selenium:
+Tags: #mobile #android #ios #windows-app
+
+## Cypress:
+Tags: #web #api
+
+## [Playwright](https://playwright.dev/): 
+Tags: #web #api #multi-programing-languages
+https://github.com/microsoft/playwright
++ Playwright with Python: https://playwright.dev/python/docs/running-tests
+
+# Framework collections:
 Where we collect the information about all public testing framework, we will try and lesson learnt from them. 
 
 - Robot Framework: 

@@ -47,3 +47,4 @@ Reference more: https://developsense.com/resource/RSTAgileTesting.pdf
 # References:
 - Software Testing Heuristics Mind: https://www.ministryoftesting.com/search?q=software+testing+heuristics+mind+the+gap
 - Session Base Testing: https://testsigma.com/blog/session-based-testing/
+- References about all automation test framework: https://github.com/atinfo/awesome-test-automation/tree/master
