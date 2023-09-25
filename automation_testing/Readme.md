@@ -3,7 +3,7 @@ In this page, I would like collect and mention all tools and modern automation t
 
 ## Tools and framework:
 
-## (Selenium)[https://www.selenium.dev/]: 
+## (Selenium)(https://www.selenium.dev/): 
 Tags: #web #mobile
 + Selenium 4 Upgrade: https://www.selenium.dev/documentation/webdriver/getting_started/upgrade_to_selenium_4/
 + Selenium 4 with Chrome DevTools support
@@ -33,6 +33,10 @@ Tags: #web #api
 Tags: #web #api #multi-programing-languages
 https://github.com/microsoft/playwright
 + Playwright with Python: https://playwright.dev/python/docs/running-tests
+
+## [React Native Windows](https://microsoft.github.io/react-native-windows/versions)
+https://microsoft.github.io/react-native-windows/docs/0.60/e2e-test-more-about
+Tags: #WinappDriver #Windriverio #Jasmine
 
 # Framework collections:
 Where we collect the information about all public testing framework, we will try and lesson learnt from them. 
