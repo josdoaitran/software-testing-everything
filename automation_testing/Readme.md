@@ -3,7 +3,7 @@ In this page, I would like collect and mention all tools and modern automation t
 
 ## Tools and framework:
 
-## (Selenium)(https://www.selenium.dev/): 
+## [Selenium](https://www.selenium.dev/): 
 Tags: #web #mobile
 + Selenium 4 Upgrade: https://www.selenium.dev/documentation/webdriver/getting_started/upgrade_to_selenium_4/
 + Selenium 4 with Chrome DevTools support
