@@ -32,30 +32,33 @@ Tags: Javascript, Typescript #Web #Mobile #WindowsDriver
 - https://microsoft.github.io/react-native-windows/docs/0.60/e2e-test-more-about
 
 ## [React Native Windows](https://microsoft.github.io/react-native-windows/versions)
-https://microsoft.github.io/react-native-windows/docs/0.60/e2e-test-more-about
-Tags: #WinappDriver #Windriverio #Jasmine
+- Tags: #WinappDriver #Windriverio #Jasmine
+- https://microsoft.github.io/react-native-windows/docs/0.60/e2e-test-more-about
 
-## Cypress:
-Tags: #web #api
+## [Cypress](https://www.cypress.io/):
+- Tags: #web #api
+- Sorry Cypress: https://sorry-cypress.dev/
 
 ## [Playwright](https://playwright.dev/): 
-Tags: #web #api #multi-programing-languages
-https://github.com/microsoft/playwright
+- Tags: #web #api #multi-programing-languages
+- Github: https://github.com/microsoft/playwright
+
 + Playwright with Python: https://playwright.dev/python/docs/running-tests
 
 # Framework collections:
 Where we collect the information about all public testing framework, we will try and lesson learnt from them. 
 
-- Robot Framework: 
-Highlight: Python, Hybrid Framework, Selenium
+## Robot Framework: 
+Tags: Python, Hybrid Framework, Selenium
 
-- Serenity Java Framework:
-Highlight: Java, BDD [Ghekirn], Selenium
+## Serenity Java Framework:
+Tags: Java, BDD [Ghekirn], Selenium
 
-- TheOneFramework: https://github.com/amuthansakthivel/TheOneFramework
-Highlight: Java, Web, Mobile, API, Selenium, Appium
+## TheOneFramework: https://github.com/amuthansakthivel/TheOneFramework
+Tags: Java, Web, Mobile, API, Selenium, Appium
 
-- Karate: https://github.com/karatelabs/karate
-Highlight: Java, Maven/Gradle, Junit5,  BDD with Gherkin, API
+## Karate: https://github.com/karatelabs/karate
+Tags: Java, Maven/Gradle, Junit5,  BDD with Gherkin, API
 
-- 
+## Cypress: https://www.cypress.io/
+- Sorry Cypress: https://sorry-cypress.dev/
