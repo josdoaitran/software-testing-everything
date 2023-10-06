@@ -8,20 +8,20 @@ To collect everything about software testing.
 
 # Books for Software Testing
 
-1. Foundation Of Software Testing: ISTQB Certification [Link]
-2. Agile Testing [Link](https://www.amazon.co.uk/gp/product/0321534468/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0321534468&linkId=2329466ff07991dac63044267a6333d1)
+1. Foundation Of Software Testing: ISTQB Certification [Link](https://www.istqb.org/certifications/certified-tester-foundation-level)
+2. Agile Testing [Link](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
+3. Modern Agile Testing [Link](https://www.oreilly.com/library/view/more-agile-testing/9780133749571/)
 
 
-# Test Managements
-
-## Test Estimation
+# Test Estimation
 In [ISTQB glossary](https://istqb-glossary.page/test-estimation/)
 
-## Test Management tools
+# Test Management tools
 There are many options for us to choose a Test management tools: To manage test cases, Manage and report testing results, ...
-- TestRails
-- Xray
-- TestLink
+- TestLink [Link](https://testlink.org/)
+Tags: #free, #open-source
+- Testrails: [Link](https://www.testrail.com/)
+- Xray: [Link](https://www.getxray.app/test-management)
 - Using Jira Custom Project to manage test cases and test reports for a projects
 - ...
 
@@ -39,11 +39,6 @@ All notes about Microservice testing: https://github.com/josdoaitran/microservic
 
 Return on Investment (ROI) of test automation: 
 
-# Test Management tool
-
-There are many test management tools (Testrails, Xray,  )
-- Testrails: https://www.testrail.com/
-- Xray: https://www.getxray.app/test-management
 
 # Testing Mnemonics
 https://www.testmakker.dk/2019/03/30/testing-mnemonics/
