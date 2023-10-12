@@ -42,8 +42,11 @@ Tags: Javascript, Typescript #Web #Mobile #WindowsDriver
 ## [Playwright](https://playwright.dev/): 
 - Tags: #web #api #multi-programing-languages
 - Github: https://github.com/microsoft/playwright
-
 + Playwright with Python: https://playwright.dev/python/docs/running-tests
+
+## Percy.IO: UI Testing tool
++ Percy.IO: https://percy.io/visual-testing
++ Tags: #Browserstack #Visual-Testing #Selenium #Cypress #PlayWright
 
 # Framework collections:
 Where we collect the information about all public testing framework, we will try and lesson learnt from them. 
