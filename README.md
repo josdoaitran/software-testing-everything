@@ -51,6 +51,9 @@ References:
 # Microservice Testing:
 All notes about Microservice testing: https://github.com/josdoaitran/microservices-everything
 
+# Micro-Frontend Testing:
+All notes about Micro-Frontend testing: https://github.com/josdoaitran/microservices-everything/blob/main/testing-for-microfrontend-modular-architecture.md
+
 # Automation Testing
 ![](https://github.com/josdoaitran/SoftwareTestingEverything/blob/master/AutomationTest/Java_Automation_Test.png)
 
