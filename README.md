@@ -25,6 +25,23 @@ Tags: #free, #open-source
 - Using Jira Custom Project to manage test cases and test reports for a projects
 - ...
 
+# UI/UX Testing Note:
+## UI/UX testing:
+
+## UI Desgin Tools:
+Here is the list of UI tools that QA should know to do testing effectively:
+- Figma: https://www.figma.com
+- Wondershare Mockitt: https://mockitt.wondershare.com/
+- Balsamiq Mockup tool: https://balsamiq.com/
+- UI WireMock: https://github.com/plouc/wiremock-ui
+  
+## UI Testing with Figma
+- Compare a website with Figma design: https://www.figma.com/community/plugin/816424186244407164/pixelay-compare-design-to-web
+- References: [Link](https://www.youtube.com/watch?v=yAj8qWD3Xzs&ab_channel=HypermaticFigmaTutorials)
+- Figma Testing: https://www.figma.com/community/file/1006635175768666481
+- Component UI testing: https://medium.com/eightshapes-llc/testing-figma-components-a47fc978465f
+- Componet Visual Test Case: https://medium.com/eightshapes-llc/component-visual-test-cases-e501e2d21def
+
 # Test Impact Analysis:
 Test Impact Analysis (TIA) is a modern way of speeding up the test automation phase of a build. It works by analyzing the call-graph of the source code to work out which tests should be run after a change to production code. Microsoft has done some extensive work on this approach, but it's also possible for development teams to implement something useful quite cheaply.
 References:
