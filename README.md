@@ -1,9 +1,10 @@
 # Software Testing Everything
 To collect everything about software testing.
 
-1. What is `TestCase` and `TestScenario`
-2. 7 princiles of software testing
-3. Test design techniques 
+1. 7 princiles of software testing:
+[ISTQB](https://astqb.org/istqb-foundation-level-seven-testing-principles/)
+2. Test design techniques:
+[Link](https://testsigma.com/blog/test-case-design-techniques/)
 
 
 # Books for Software Testing
