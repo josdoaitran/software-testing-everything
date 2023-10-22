@@ -28,6 +28,8 @@ Tags: #free, #open-source
 
 # UI/UX Testing Note:
 ## UI/UX testing:
+- UI testing focuses on testing the user interface of a website or other product to make sure that everything functions as it should and that customers understand how to use the UI.
+- UX testing, on the other hand, focuses on how the product or website affects the user’s whole experience
 
 ## UI Desgin Tools:
 Here is the list of UI tools that QA should know to do testing effectively:
