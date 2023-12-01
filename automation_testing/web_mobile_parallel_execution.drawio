@@ -1,0 +1,199 @@
+<mxfile host="65bd71144e">
+    <diagram id="yVScqkbky4LA014pDbe9" name="Page-1">
+        <mxGraphModel dx="753" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="120" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="160" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="60" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="100" width="260" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="120" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Automation Test Script" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="165" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="120" width="38.31" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Hub&amp;nbsp;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="70" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="7">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="240" as="sourcePoint"/>
+                        <mxPoint x="280" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="Selenium Grid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="165" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Machine / Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="230" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="70" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7" target="15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="450" y="240" as="sourcePoint"/>
+                        <mxPoint x="500" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Node" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="40" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Machine / Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="100" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;dashed=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="60" width="43.48" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.shareicon.net/data/2016/06/25/618934_ubuntu_256x256.png;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Machine / Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="200" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Node" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="140" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="25">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="150" as="sourcePoint"/>
+                        <mxPoint x="560" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.png;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="170" width="19.39" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="260" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Machine / Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="300" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Node" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="240" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6124/6124992.png;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="270" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="260" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="35">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="300" as="sourcePoint"/>
+                        <mxPoint x="620" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="Test Case&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;rotation=-15;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="70" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Test Case&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="145" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Test Case&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;rotation=25;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="210" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Selenium Grid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="125" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="80" width="38.31" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="MultiThread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="1100" y="125" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.process;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="1120" y="80" width="33.6" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="440" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="420" width="260" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="440" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Automation Test Script" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="485" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="440" width="38.31" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Hub&amp;nbsp;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="218.31" y="380" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="50" target="46">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="560" as="sourcePoint"/>
+                        <mxPoint x="280" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="Selenium Grid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="485" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Machine / Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="550" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.105;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="46" target="76">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="450" y="560" as="sourcePoint"/>
+                        <mxPoint x="576.8100000000002" y="392.84000000000003" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="Node" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="380" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Node" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="460" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.028;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="46" target="79">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="470" as="sourcePoint"/>
+                        <mxPoint x="580" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="Node" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="540" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.127;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="46" target="84">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="620" as="sourcePoint"/>
+                        <mxPoint x="580" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="598.48" y="380" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://styles.redditmedia.com/t5_wij63/styles/communityIcon_kdltvuvd05h41.png;" vertex="1" parent="1">
+                    <mxGeometry x="603.48" y="400" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="598.48" y="460" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://styles.redditmedia.com/t5_wij63/styles/communityIcon_kdltvuvd05h41.png;" vertex="1" parent="1">
+                    <mxGeometry x="603.48" y="485" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="598.48" y="540" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png;" vertex="1" parent="1">
+                    <mxGeometry x="603.48" y="560" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

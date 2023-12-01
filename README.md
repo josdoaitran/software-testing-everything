@@ -51,16 +51,17 @@ References:
 - https://martinfowler.com/articles/rise-test-impact-analysis.html
 - https://continuoustesting.dev/2017/02/07/model-based-testing-and-test-impact-analysis/
 
-# Microservice Testing:
+# Microservice Testing
 All notes about Microservice testing: https://github.com/josdoaitran/microservices-everything
 
-# Micro-Frontend Testing:
+# Micro-Frontend Testing
 All notes about Micro-Frontend testing: https://github.com/josdoaitran/microservices-everything/blob/main/testing-for-microfrontend-modular-architecture.md
 
 # Automation Testing
-![](https://github.com/josdoaitran/SoftwareTestingEverything/blob/master/AutomationTest/Java_Automation_Test.png)
+- Java Stack Automation test collection 
+![](./automation_testing/Java_Automation_Test.png)
 
-Return on Investment (ROI) of test automation: 
+- Note tools for automation test: https://github.com/josdoaitran/software-testing-everything/blob/master/automation_testing/Readme.md
 
 
 # Testing Mnemonics
@@ -71,7 +72,7 @@ https://www.testmakker.dk/2019/03/30/testing-mnemonics/
 https://testsigma.com/blog/session-based-testing/
 https://www.infoq.com/articles/session-based-test-management/
 
-# Agile Testing Quarant:
+# Agile Testing Quarant
 ![Agile-Testing-Quadrants](https://lisacrispin.com/wp-content/uploads/2011/11/Agile-Testing-Quadrants.png)
 Reference more: https://developsense.com/resource/RSTAgileTesting.pdf
 
