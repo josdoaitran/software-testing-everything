@@ -31,10 +31,10 @@ Tags: #free, #open-source
 - UI testing focuses on testing the user interface of a website or other product to make sure that everything functions as it should and that customers understand how to use the UI.
 - UX testing, on the other hand, focuses on how the product or website affects the user’s whole experience
 
-## UI Desgin Tools:
+## UI Design Tools:
 Here is the list of UI tools that QA should know to do testing effectively:
 - Figma: https://www.figma.com
-- Wondershare Mockitt: https://mockitt.wondershare.com/
+- Wondershare Mockit: https://mockitt.wondershare.com/
 - Balsamiq Mockup tool: https://balsamiq.com/
 - UI WireMock: https://github.com/plouc/wiremock-ui
   
@@ -53,6 +53,11 @@ References:
 
 # Microservice Testing
 All notes about Microservice testing: https://github.com/josdoaitran/microservices-everything
+
+# Serverless - Framework
+- All notes about Serverless testing here: https://github.com/josdoaitran/microservices-everything/blob/main/serverless-testing.md
+
+- Serverless Github: https://github.com/serverless/serverless
 
 # Micro-Frontend Testing
 All notes about Micro-Frontend testing: https://github.com/josdoaitran/microservices-everything/blob/main/testing-for-microfrontend-modular-architecture.md
