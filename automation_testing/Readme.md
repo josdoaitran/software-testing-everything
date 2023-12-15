@@ -24,3 +24,4 @@ https://testsigma.com/user-interface-testing-tools
 ### More Information:
 - Visual Testing - Playwrigth - Python
 https://www.youtube.com/watch?v=fu1TIo7UEns&ab_channel=symonskyy
+- AyeSpy: https://github.com/newsuk/AyeSpy
