@@ -5,3 +5,6 @@ In this page, I would like collect and mention all tools and modern automation t
 
 - Open Source Collection: [Here](./open_source_collect.md)
 - Commercial Tools Collections:  [Here](./commercial_collect.md)
+
+## User Interface testing tools:
+https://testsigma.com/user-interface-testing-tools
