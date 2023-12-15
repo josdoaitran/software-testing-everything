@@ -8,3 +8,5 @@ In this page, I would like collect and mention all tools and modern automation t
 
 ## User Interface testing tools:
 https://testsigma.com/user-interface-testing-tools
+- Visual Testing - Playwrigth - Python
+https://www.youtube.com/watch?v=fu1TIo7UEns&ab_channel=symonskyy
