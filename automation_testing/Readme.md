@@ -8,16 +8,18 @@ On this page, I would like to collect and mention all tools and modern automatio
 
 ## User Interface testing tools:
 
+### Mobile:
+https://testsigma.com/user-interface-testing-tools
+
+## Accessibility Testing: 
 
 ### Web Application:
 - Microsoft Accessibility Insights for Web: https://accessibilityinsights.io/docs/web/overview/
 - axe DevTools Web Accessibility: https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
 
-### Mobile:
-https://testsigma.com/user-interface-testing-tools
-
 ### Windows application:
 - Microsoft Accessibility Insights for Windows: https://accessibilityinsights.io/docs/windows/overview/
+
 
 ### More Information:
 - Visual Testing - Playwrigth - Python
