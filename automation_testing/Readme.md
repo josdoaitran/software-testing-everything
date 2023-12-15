@@ -1,5 +1,5 @@
 # Automation Test
-In this page, I would like collect and mention all tools and modern automation test framework. It includes open-source and commercial software tools, frameworks, Scripting Styles.
+On this page, I would like to collect and mention all tools and modern automation test framework. It includes open-source and commercial software tools, frameworks, and Scripting Styles.
 
 ## Tools and framework:
 
@@ -7,6 +7,18 @@ In this page, I would like collect and mention all tools and modern automation t
 - Commercial Tools Collections:  [Here](./commercial_collect.md)
 
 ## User Interface testing tools:
+
+
+### Web Application:
+- Microsoft Accessibility Insights for Web: https://accessibilityinsights.io/docs/web/overview/
+- axe DevTools Web Accessibility: https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
+
+### Mobile:
 https://testsigma.com/user-interface-testing-tools
+
+### Windows application:
+- Microsoft Accessibility Insights for Windows: https://accessibilityinsights.io/docs/windows/overview/
+
+### More Information:
 - Visual Testing - Playwrigth - Python
 https://www.youtube.com/watch?v=fu1TIo7UEns&ab_channel=symonskyy
