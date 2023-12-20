@@ -1,7 +1,7 @@
 # Software Testing Everything
 To collect everything about software testing.
 
-1. 7 princiles of software testing:
+1. 7 principles of software testing:
 [ISTQB](https://astqb.org/istqb-foundation-level-seven-testing-principles/)
 2. Test design techniques:
 [Link](https://testsigma.com/blog/test-case-design-techniques/)
@@ -18,7 +18,7 @@ To collect everything about software testing.
 In [ISTQB glossary](https://istqb-glossary.page/test-estimation/)
 
 # Test Management tools
-There are many options for us to choose a Test management tools: To manage test cases, Manage and report testing results, ...
+There are many options for us to choose Test management tools: To manage test cases, Manage and report testing results, ...
 - TestLink [Link](https://testlink.org/)
 Tags: #free, #open-source
 - Testrails: [Link](https://www.testrail.com/)
@@ -26,12 +26,12 @@ Tags: #free, #open-source
 - Using Jira Custom Project to manage test cases and test reports for a projects
 - ...
 
-# UI/UX Testing Note:
-## UI/UX testing:
+# UI/UX Testing Note
+## UI/UX testing
 - UI testing focuses on testing the user interface of a website or other product to make sure that everything functions as it should and that customers understand how to use the UI.
 - UX testing, on the other hand, focuses on how the product or website affects the user’s whole experience
 
-## UI Design Tools:
+## UI Design Tools
 Here is the list of UI tools that QA should know to do testing effectively:
 - Figma: https://www.figma.com
 - Wondershare Mockit: https://mockitt.wondershare.com/
@@ -43,10 +43,10 @@ Here is the list of UI tools that QA should know to do testing effectively:
 - References: [Link](https://www.youtube.com/watch?v=yAj8qWD3Xzs&ab_channel=HypermaticFigmaTutorials)
 - Figma Testing: https://www.figma.com/community/file/1006635175768666481
 - Component UI testing: https://medium.com/eightshapes-llc/testing-figma-components-a47fc978465f
-- Componet Visual Test Case: https://medium.com/eightshapes-llc/component-visual-test-cases-e501e2d21def
+- Component Visual Test Case: https://medium.com/eightshapes-llc/component-visual-test-cases-e501e2d21def
 
 # Test Impact Analysis:
-Test Impact Analysis (TIA) is a modern way of speeding up the test automation phase of a build. It works by analyzing the call-graph of the source code to work out which tests should be run after a change to production code. Microsoft has done some extensive work on this approach, but it's also possible for development teams to implement something useful quite cheaply.
+Test Impact Analysis (TIA) is a modern way of speeding up the test automation phase of a build. It works by analyzing the call-graph of the source code to work out which tests should be run after a change to the production code. Microsoft has done some extensive work on this approach, but it's also possible for development teams to implement something useful quite cheaply.
 References:
 - https://martinfowler.com/articles/rise-test-impact-analysis.html
 - https://continuoustesting.dev/2017/02/07/model-based-testing-and-test-impact-analysis/
@@ -68,6 +68,15 @@ All notes about Micro-Frontend testing: https://github.com/josdoaitran/microserv
 
 - Note tools for automation test: https://github.com/josdoaitran/software-testing-everything/blob/master/automation_testing/Readme.md
 
+# AI with Testing
+In this note, we focus on: 
+- Apply AI to cover Visual Testing.
+
+## Visual AI Testing Tools:
+These tools AI Testing tools:
+- Applitools: https://applitools.com/
+- Percy.io: https://percy.io/pricing
+- Percy Broswerstack: https://www.browserstack.com/percy?utm_source=google&utm_medium=cpc&utm_platform=paidads&utm_content=668810924522&utm_campaign=Search-Brand-APAC-Product&utm_campaigncode=Percy+1028581&utm_term=e+percy%20browserstack&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGYHvz98pbWLq3yA93LVqhPN9X08ZjvL1n_7AHCZAzzZpBF_bPi7bIxoCPxYQAvD_BwE
 
 # Testing Mnemonics
 https://www.testmakker.dk/2019/03/30/testing-mnemonics/
@@ -77,7 +86,7 @@ https://www.testmakker.dk/2019/03/30/testing-mnemonics/
 https://testsigma.com/blog/session-based-testing/
 https://www.infoq.com/articles/session-based-test-management/
 
-# Agile Testing Quarant
+# Agile Testing Quadrant
 ![Agile-Testing-Quadrants](https://lisacrispin.com/wp-content/uploads/2011/11/Agile-Testing-Quadrants.png)
 Reference more: https://developsense.com/resource/RSTAgileTesting.pdf
 
