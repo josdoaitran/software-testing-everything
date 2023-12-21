@@ -1,4 +1,4 @@
-# Open Source Collection:
+# Open Source Collection
 Note: Collected by Doai Tran. If you re-up, please inform me in advanced.
 
 ## [Selenium](https://www.selenium.dev/)
