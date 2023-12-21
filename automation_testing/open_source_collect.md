@@ -12,18 +12,18 @@ Tags: #web #mobile
 Tags: #api #python
 + Playwright with Python: https://playwright.dev/python/docs/running-tests
 + 
-## [JUnit](https://junit.org/junit5/) and [TestNG](https://testng.org/doc/): 
+## [JUnit](https://junit.org/junit5/) and [TestNG](https://testng.org/doc/)
 Tags: #java #test-framework
 - Junit
 - TestNG
 
-## [Jbehave](https://jbehave.org/):
+## [Jbehave](https://jbehave.org/)
 Tags: #web 
 
 ## [Serenity BDD](https://serenity-bdd.info/)
 Tags: #Gherkin #Screen-play #Java
 
-## Appium + Selenium:
+## Appium + Selenium
 Tags: #mobile #android #ios #windows-app
 
 ## Maestro.Mobile.Dev
@@ -39,11 +39,11 @@ Tags: Javascript, Typescript #Web #Mobile #WindowsDriver
 - Tags: #WinappDriver #Windriverio #Jasmine
 - https://microsoft.github.io/react-native-windows/docs/0.60/e2e-test-more-about
 
-## [Cypress](https://www.cypress.io/):
+## [Cypress](https://www.cypress.io/)
 - Tags: #web #api
 - Sorry Cypress: https://sorry-cypress.dev/
 
-## [Playwright](https://playwright.dev/): 
+## [Playwright](https://playwright.dev/)
 - Tags: #web #api #multi-programing-languages
 - Github: https://github.com/microsoft/playwright
 + Playwright with Python: https://playwright.dev/python/docs/running-tests
@@ -52,20 +52,20 @@ Tags: Javascript, Typescript #Web #Mobile #WindowsDriver
 + Percy.IO: https://percy.io/visual-testing
 + Tags: #Browserstack #Visual-Testing #Selenium #Cypress #PlayWright
 
-# Framework collections:
+# Builtin Framework and Enterprise  collections
 When we collect information about all public testing frameworks, we will try and learn from them. 
 
-## Robot Framework: 
+## [Robot Framework](https://robotframework.org/)
 Tags: Python, Hybrid Framework, Selenium
 
 ## Serenity Java Framework:
 Tags: Java, BDD [Ghekirn], Selenium
 
-## TheOneFramework: https://github.com/amuthansakthivel/TheOneFramework
+## [TheOneFramework](https://github.com/amuthansakthivel/TheOneFramework)
 Tags: Java, Web, Mobile, API, Selenium, Appium
 
-## Karate: https://github.com/karatelabs/karate
+## [Karate](https://github.com/karatelabs/karate)
 Tags: Java, Maven/Gradle, Junit5,  BDD with Gherkin, API
 
-## Cypress: https://www.cypress.io/
+## [Cypress](https://www.cypress.io/)
 - Sorry Cypress: https://sorry-cypress.dev/
