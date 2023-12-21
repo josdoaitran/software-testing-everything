@@ -13,7 +13,6 @@ To collect everything about software testing.
 2. Agile Testing [Link](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
 3. Modern Agile Testing [Link](https://www.oreilly.com/library/view/more-agile-testing/9780133749571/)
 
-
 # Test Estimation
 In [ISTQB glossary](https://istqb-glossary.page/test-estimation/)
 
@@ -27,7 +26,7 @@ Tags: #free, #open-source
 - ...
 
 # UI/UX Testing Note
-All notes about UI/UX and visual testing: [Here]()
+All notes about UI/UX and visual testing: [Here](https://github.com/josdoaitran/software-testing-everything/blob/master/ux-ui-visual-testing.md)
 
 # Test Impact Analysis:
 Test Impact Analysis (TIA) is a modern way of speeding up the test automation phase of a build. It works by analyzing the call-graph of the source code to work out which tests should be run after a change to the production code. Microsoft has done some extensive work on this approach, but it's also possible for development teams to implement something useful quite cheaply.
