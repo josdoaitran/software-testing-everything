@@ -8,6 +8,12 @@ Here is the list of UI tools that QA should know to do testing effectively:
 - Wondershare Mockit: https://mockitt.wondershare.com/
 - Balsamiq Mockup tool: https://balsamiq.com/
 - UI WireMock: https://github.com/plouc/wiremock-ui
+
+## UI/UX - Visual Testing tools:
+- Visual AI Testing tools: https://applitools.com/
+- Percy Visual Testing: https://percy.io/pricing
+- Percy Visual Testing - BrowserStack: https://www.browserstack.com/percy/visual-testing
+- https://argos-ci.com/
   
 ## UI Testing with Figma
 - Compare a website with Figma design: https://www.figma.com/community/plugin/816424186244407164/pixelay-compare-design-to-web
