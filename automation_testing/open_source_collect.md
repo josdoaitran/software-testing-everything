@@ -1,18 +1,18 @@
 # Open Source Collection:
 Note: Collected by Doai Tran. If you re-up, please inform me in advanced.
 
-## [Selenium](https://www.selenium.dev/): 
+## [Selenium](https://www.selenium.dev/)
 Tags: #web #mobile
 + Selenium 4 Upgrade: https://www.selenium.dev/documentation/webdriver/getting_started/upgrade_to_selenium_4/
 + Selenium 4 with Chrome DevTools support
 + Selenium 4 with selenium Manager: https://www.selenium.dev/blog/2022/introducing-selenium-manager/
 + HTTP Client in Selenium 4.5.0 and later: https://www.selenium.dev/blog/2022/using-java11-httpclient/
   
-## [Pytest](https://docs.pytest.org/en/7.4.x/): 
+## [Pytest](https://docs.pytest.org/en/7.4.x/)
 Tags: #api #python
 + Playwright with Python: https://playwright.dev/python/docs/running-tests
 + 
-## [JUnit](https://junit.org/junit5/) / TestNG(https://testng.org/doc/): 
+## [JUnit](https://junit.org/junit5/) and [TestNG](https://testng.org/doc/): 
 Tags: #java #test-framework
 - Junit
 - TestNG
