@@ -6,10 +6,13 @@ To collect everything about software testing.
 2. Test design techniques:
 [Link](https://testsigma.com/blog/test-case-design-techniques/)
 
-# All notes for ISTQB Examination
+# All notes for the ISTQB Examination
 ## Foundation Level:
-- FlashCard: https://quizlet.com/549175619/flashcards?funnelUUID=89dbd882-e1c5-4662-924f-186059b286f7
-- 
+All here: https://doaitran.notion.site/Question-Collection-Foundation-Level-Exam-ed961ebad8df495a824103f28f3ebd64
+
+- FlashCard - 1: https://quizlet.com/vn/738443631/de-12-flash-cards/?funnelUUID=789b4187-29c2-40b4-a358-a399ac806806
+- FlashCard - 2: https://quizlet.com/549175619/flashcards?funnelUUID=89dbd882-e1c5-4662-924f-186059b286f7
+
 
 
 # Books for Software Testing
