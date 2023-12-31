@@ -12,6 +12,7 @@ All here: https://doaitran.notion.site/Question-Collection-Foundation-Level-Exam
 
 - FlashCard - 1: https://quizlet.com/vn/738443631/de-12-flash-cards/?funnelUUID=789b4187-29c2-40b4-a358-a399ac806806
 - FlashCard - 2: https://quizlet.com/549175619/flashcards?funnelUUID=89dbd882-e1c5-4662-924f-186059b286f7
+- Statement Coverage: https://www.istqb.guru/how-to-calculate-statement-branchdecision-and-path-coverage-for-istqb-exam-purpose/
 
 
 
